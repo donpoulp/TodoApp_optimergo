@@ -1,0 +1,6 @@
+Exception: STATUS_ACCESS_VIOLATION at eip=6112AF63
+eax=00000005 ebx=00000288 ecx=10000000 edx=20104E10 esi=5C727565 edi=5C727565
+ebp=00000003 esp=008178F0 program=C:\Users\Utilisateur\Desktop\travail\modulesgit\Git-it-Win-ia32\resources\app\assets\PortableGit\usr\bin\bash.exe, pid 24300, thread main
+cs=0023 ds=002B es=002B fs=0053 gs=002B ss=002B
+Stack trace:
+Frame     Function  Args
